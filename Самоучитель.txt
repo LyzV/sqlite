@@ -1,1 +1,4 @@
 https://sites.google.com/site/javatokens/sqlite
+
+Остановился на 03. Операторы
+
